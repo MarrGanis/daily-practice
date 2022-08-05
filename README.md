@@ -1,2 +1,2 @@
 # daily-practice
-Mac日常联系
+Mac日常练习
